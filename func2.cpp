@@ -4,5 +4,5 @@ using std::cout;
 using std::endl;
 
 void func2() {
-	cout << "func2() call" << endl;
+	cout << "func2() call!" << endl;
 }

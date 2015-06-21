@@ -1,4 +1,4 @@
 all: tst
-tst: main.cpp
-	g++ -o tst main.cpp
+tst: main.cpp func2.cpp func2.hpp
+	g++ -o tst main.cpp func2.cpp
 
