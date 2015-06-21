@@ -14,7 +14,7 @@ int main()
 	cout << "A message" << endl;
 	func1();
 	func2();
-	cout << "Finished after two funcion calls" << endl;
+	cout << "Now finished after two funcion calls" << endl;
 
 	return 0;
 }
